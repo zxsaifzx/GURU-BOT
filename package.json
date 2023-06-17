@@ -1,5 +1,5 @@
 { 
-    "name": "GURU",
+    "name": "Dazai",
     "version": "0.0.1",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/zxsaifzx",
     "author": {
-        "name": "GURU"
+        "name": "Dazai"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/zxsaifzx"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/zxsaifzx"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
